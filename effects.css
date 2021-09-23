@@ -75,7 +75,7 @@
 }
 /* 11-EX */
 .ex-11-icon:hover{
-    animation: rotation2 2s;
+    animation: rotation2 2s linear;
 }
 @keyframes rotation2 {
     0%{
