@@ -73,3 +73,18 @@
         transform: rotate(360deg);
     }
 }
+/* 11-EX */
+.ex-11-icon:hover{
+    animation: rotation2 2s;
+}
+@keyframes rotation2 {
+    0%{
+        transform: rotate(0);
+    }
+    90%{
+        transform: rotate(315deg);
+    }
+    100%{
+        transform: rotate(0);
+    }
+}
