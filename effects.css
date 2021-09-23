@@ -47,3 +47,11 @@
 .ex-7-img:hover{
     filter: grayscale(100%);
 }
+/* 8-EX */
+.ex-8-img{
+    transition: 1s;
+}
+.ex-8-img:hover{
+    filter: grayscale(100%);
+    border-radius: 20px;
+}
