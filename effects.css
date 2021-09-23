@@ -40,3 +40,10 @@
 .ex-6-img:hover{
     filter: grayscale(100%);
 }
+/* 7-EX */
+.ex-7-img{
+    transition: 1s;
+}
+.ex-7-img:hover{
+    filter: grayscale(100%);
+}
